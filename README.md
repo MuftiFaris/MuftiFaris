@@ -22,7 +22,7 @@
 <br />
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="75%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/MuftiFaris/MuftiFaris/main/profile-3d-contrib/profile-night-green.svg" width="75%" alt="3D Contribution Graph" />
 </div>
 <br />
 
