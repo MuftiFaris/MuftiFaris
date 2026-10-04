@@ -47,9 +47,9 @@
 
 Listed below are repositories where I've contributed as a collaborator:
 
-| Repository | Owner | Description |
+| Repository | Tech Stack | Description |
 |:---|:---|:---|
-| [Praktikum-RPL-Kelas-B-Kelompok-6](https://github.com/fritzuu/Praktikum-RPL-Kelas-B-Kelompok-6) | [fritzuu](https://github.com/fritzuu) | Software engineering practicum project for Group B, Class 6 |
-| [Note-Manager-AI](https://github.com/fritzuu/Note-Manager-AI) | [fritzuu](https://github.com/fritzuu) | AI-powered note management system |
-| [Sector-hackathon-automation](https://github.com/fritzuu/Sector-hackathon-automation) | [fritzuu](https://github.com/fritzuu) | Automation solution for Sector hackathon |
-| [NLP-Project](https://github.com/GibranMaulana/NLP-Project) | [GibranMaulana](https://github.com/GibranMaulana) | Neuro-Linguistic Programming project |
+| [Praktikum-RPL-Kelas-B-Kelompok-6](https://github.com/fritzuu/Praktikum-RPL-Kelas-B-Kelompok-6) | `PHP` `JavaScript` | Software engineering practicum project for Group B, Class 6 |
+| [Note-Manager-AI](https://github.com/fritzuu/Note-Manager-AI) | `TypeScript` `HTML` `Python` `JavaScript` | AI-powered note management system |
+| [Sector-hackathon-automation](https://github.com/fritzuu/Sector-hackathon-automation) | `TypeScript` `HTML` `PLpgSQL` | Automation solution for Sector hackathon |
+| [NLP-Project](https://github.com/GibranMaulana/NLP-Project) | `TypeScript` `JavaScript` `CSS` | Neuro-Linguistic Programming project |
